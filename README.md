@@ -1,16 +1,133 @@
-## Hi there 👋
+<h1 align="center">🚀 Murilo Pepineli</h1>
+<h3 align="center">Estudante de Ciência da Computação | Cloud | GenAI | Python</h3>
 
-<!--
-**pepineli/pepineli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-GCP-blue?logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud-Azure-blue?logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Ciência da Computação** na USCS (2025-2028), apaixonado por tecnologia, nuvem e inteligência artificial. Tenho experiência em ambientes cloud (GCP/Azure), automação com Terraform, desenvolvimento em Python, Java, C# e Angular, além de certificações em GenAI e bancos de dados.
+
+Atualmente foco em projetos com **IA Generativa**, **FinOps** e **educação financeira** aplicada com tecnologia.
+
+---
+
+## 🎓 Certificações e Cursos
+
+| Curso | Instituição | Carga horária | Tecnologias |
+|-------|-------------|---------------|--------------|
+| **Bootcamp GenAI & Dados** | Bradesco / DIO | 52h | GenAI, Python, SQL, Excel, NotebookLM, LLMs |
+| **Trilha Cloud (GCP/Azure)** | DIO / Rocketseat | 40h | Terraform, IAM, FinOps, Compute Engine |
+| **Desenvolvimento com C# e .NET** | DIO | 30h | C#, .NET, APIs |
+| **Angular + TypeScript** | DIO | 20h | Angular, RxJS, TypeScript |
+
+> 📌 **Em andamento:** Bootcamp Santander 2026 (Back-end Java + Spring + IA)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🤖 Lúcio – Agente Educador Financeiro com IA Generativa
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/pepineli/dio-lab-bia-do-futuro)
+[![Colab](https://img.shields.io/badge/Google_Colab-Notebook-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/pepineli/dio-lab-bia-do-futuro/blob/main/Agente_de_IA_financeiro_L%C3%9ACIO%20(1).ipynb)
+
+> Agente de IA que ensina conceitos de finanças pessoais de forma personalizada, usando dados mockados e ChatGPT. Com system prompt rígido para evitar recomendações e alucinações. Inclui documentação completa, métricas de qualidade e pitch.
+
+**Tecnologias:** Python, OpenAI API (GPT-3.5-turbo), Gradio, Google Colab, Pandas, JSON.
+
+---
+
+### 🎙️ Assistente de Voz com Whisper + ChatGPT + gTTS
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/pepineli/assistente-voz-whisper-chatgpt)
+
+> Assistente que grava áudio, transcreve com Whisper (OpenAI), gera resposta com ChatGPT e sintetiza voz com gTTS. Totalmente seguro (chave não exposta) e rodando no Colab.
+
+**Tecnologias:** Python, OpenAI Whisper, ChatGPT API, gTTS, Google Colab, JavaScript (gravação de áudio).
+
+---
+
+## 📂 Projetos Acadêmicos e Práticos
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|--------------|
+| **Finanças Sustentáveis – NotebookLM** | Curadoria de 4 fontes sobre crédito ESG e finanças verdes, com testes de prompts e miniguia. | NotebookLM, Engenharia de Prompts |
+| **Análise de Ações (ALTA/BAIXA)** | Programa simples para simular análise de desempenho de ações. | Python, Lógica Condicional |
+| **Lançamentos Financeiros** | Cálculo de saldo com base em despesas e receitas. | Python, ETL básico |
+| **Remoção de Duplicatas em Extrato** | Função que remove transações repetidas mantendo ordem original. | Python, Estruturas de Dados |
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+<details>
+<summary><b>Linguagens de Programação</b></summary>
+
+- Python (intermediário/avançado)
+- Java (intermediário)
+- C# (.NET) (intermediário)
+- TypeScript/JavaScript (básico)
+- SQL (intermediário)
+</details>
+
+<details>
+<summary><b>Cloud & Infraestrutura</b></summary>
+
+- Google Cloud Platform (GCP) – Compute Engine, IAM
+- Microsoft Azure – gerenciamento de recursos
+- Terraform (FinOps, levantamento de recursos)
+- FinOps (otimização de custos em cloud)
+</details>
+
+<details>
+<summary><b>Frameworks & Ferramentas</b></summary>
+
+- Angular
+- Gradio
+- Streamlit
+- Pandas / NumPy
+- Git / GitHub
+- Ollama (modelos locais)
+- OpenAI API / Gemini API
+</details>
+
+---
+
+## 📫 Onde me encontrar
+
+<p align="left">
+  <a href="https://linkedin.com/in/murilo-pepineli">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:murilo.pepineli.br@outlook.com.br">
+    <img src="https://img.shields.io/badge/E--mail-D14836?logo=microsoft-outlook&logoColor=white">
+  </a>
+  <a href="https://github.com/pepineli">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pepineli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepineli&layout=compact&langs_count=7&theme=dark"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Transformando dados em decisões, nuvem em eficiência e IA em educação."</i>
+</p>
