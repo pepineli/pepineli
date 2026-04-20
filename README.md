@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Murilo Pepineli</h1>
+<h1 align="center">Murilo Pepineli</h1>
 <h3 align="center">Estudante de Ciência da Computação | Cloud | GenAI | Python</h3>
 
 <p align="center">
