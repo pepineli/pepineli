@@ -53,6 +53,22 @@ Sou estudante de **Ciência da Computação** na USCS, apaixonado por tecnologia
 
 ---
 
+###  APICrud – API REST com C#/.NET para gerenciamento de produtos
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/pepineli/APICrud) <!-- link será atualizado após o upload -->
+
+> API REST completa para CRUD de produtos, desenvolvida em C# com .NET. Inclui modelos, controllers, respostas padronizadas e conexão com banco de dados (Entity Framework). Ideal para estudos de back-end e integração com front-end.
+
+**Tecnologias:** C#, .NET, Entity Framework, SQL Server, Swagger, REST API.
+
+**Funcionalidades:**
+- ✅ Criar, ler, atualizar e deletar produtos
+- ✅ Validações de dados
+- ✅ Respostas JSON padronizadas
+- ✅ Documentação interativa com Swagger
+
+---
+
 ##  Projetos Acadêmicos e Práticos
 
 | Projeto | Descrição | Tecnologias |
