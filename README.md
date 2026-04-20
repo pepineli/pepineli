@@ -106,8 +106,6 @@ Sou estudante de **Ciência da Computação** na USCS, apaixonado por tecnologia
 
 ---
 
-##  Onde me encontrar
-
 <p align="left">
   <a href="https://linkedin.com/in/murilo-pepineli">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
