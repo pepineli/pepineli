@@ -61,12 +61,6 @@ Sou estudante de **Ciência da Computação** na USCS, apaixonado por tecnologia
 
 **Tecnologias:** C#, .NET, Entity Framework, SQL Server, Swagger, REST API.
 
-**Funcionalidades:**
-- ✅ Criar, ler, atualizar e deletar produtos
-- ✅ Validações de dados
-- ✅ Respostas JSON padronizadas
-- ✅ Documentação interativa com Swagger
-
 ---
 
 ##  Projetos Acadêmicos e Práticos
