@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Ciência da Computação** na USCS, apaixonado por tecnologia, nuvem e inteligência artificial. Tenho experiência em ambientes cloud (GCP/Azure), desenvolvimento em Python, Java, C# e Angular, além de certificações em GenAI e bancos de dados.
+Sou estudante de **Ciência da Computação** na USCS, apaixonado por tecnologia, nuvem e inteligência artificial. Tenho experiência em ambientes cloud (GCP/Azure), desenvolvimento em Python, Java, C# e Angular.
 
 ---
 
