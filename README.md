@@ -13,41 +13,37 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-Sou estudante de **Ciência da Computação** na USCS (2025-2028), apaixonado por tecnologia, nuvem e inteligência artificial. Tenho experiência em ambientes cloud (GCP/Azure), automação com Terraform, desenvolvimento em Python, Java, C# e Angular, além de certificações em GenAI e bancos de dados.
-
-Atualmente foco em projetos com **IA Generativa**, **FinOps** e **educação financeira** aplicada com tecnologia.
+Sou estudante de **Ciência da Computação** na USCS, apaixonado por tecnologia, nuvem e inteligência artificial. Tenho experiência em ambientes cloud (GCP/Azure), desenvolvimento em Python, Java, C# e Angular, além de certificações em GenAI e bancos de dados.
 
 ---
 
-## 🎓 Certificações e Cursos
+## Certificações e Cursos
 
 | Curso | Instituição | Carga horária | Tecnologias |
 |-------|-------------|---------------|--------------|
 | **Bootcamp GenAI & Dados** | Bradesco / DIO | 52h | GenAI, Python, SQL, Excel, NotebookLM, LLMs |
-| **Trilha Cloud (GCP/Azure)** | DIO / Rocketseat | 40h | Terraform, IAM, FinOps, Compute Engine |
-| **Desenvolvimento com C# e .NET** | DIO | 30h | C#, .NET, APIs |
-| **Angular + TypeScript** | DIO | 20h | Angular, RxJS, TypeScript |
+| **Desenvolvimento com C# e .NET** | RocketSeat | 60h | C#, .NET, APIs |
+| **Angular + TypeScript** | RocketSeat | 20h | Angular, RxJS, TypeScript |
 
-> 📌 **Em andamento:** Bootcamp Santander 2026 (Back-end Java + Spring + IA)
+> **Em andamento:** Bootcamp Santander 2026 (Back-end Java + Spring + IA)
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🤖 Lúcio – Agente Educador Financeiro com IA Generativa
+###  Lúcio – Agente Educador Financeiro com IA Generativa
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/pepineli/dio-lab-bia-do-futuro)
 [![Colab](https://img.shields.io/badge/Google_Colab-Notebook-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/pepineli/dio-lab-bia-do-futuro/blob/main/Agente_de_IA_financeiro_L%C3%9ACIO%20(1).ipynb)
 
-> Agente de IA que ensina conceitos de finanças pessoais de forma personalizada, usando dados mockados e ChatGPT. Com system prompt rígido para evitar recomendações e alucinações. Inclui documentação completa, métricas de qualidade e pitch.
 
-**Tecnologias:** Python, OpenAI API (GPT-3.5-turbo), Gradio, Google Colab, Pandas, JSON.
+**Tecnologias:** Python, OpenAI API, Gradio, Google Colab, Pandas, JSON.
 
 ---
 
-### 🎙️ Assistente de Voz com Whisper + ChatGPT + gTTS
+### Assistente de Voz com Whisper + ChatGPT + gTTS
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/pepineli/assistente-voz-whisper-chatgpt)
 
@@ -57,7 +53,7 @@ Atualmente foco em projetos com **IA Generativa**, **FinOps** e **educação fin
 
 ---
 
-## 📂 Projetos Acadêmicos e Práticos
+##  Projetos Acadêmicos e Práticos
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|--------------|
@@ -68,12 +64,12 @@ Atualmente foco em projetos com **IA Generativa**, **FinOps** e **educação fin
 
 ---
 
-## 🛠️ Habilidades Técnicas
+##  Habilidades Técnicas
 
 <details>
 <summary><b>Linguagens de Programação</b></summary>
 
-- Python (intermediário/avançado)
+- Python (básico)
 - Java (intermediário)
 - C# (.NET) (intermediário)
 - TypeScript/JavaScript (básico)
@@ -85,8 +81,6 @@ Atualmente foco em projetos com **IA Generativa**, **FinOps** e **educação fin
 
 - Google Cloud Platform (GCP) – Compute Engine, IAM
 - Microsoft Azure – gerenciamento de recursos
-- Terraform (FinOps, levantamento de recursos)
-- FinOps (otimização de custos em cloud)
 </details>
 
 <details>
@@ -97,7 +91,6 @@ Atualmente foco em projetos com **IA Generativa**, **FinOps** e **educação fin
 - Streamlit
 - Pandas / NumPy
 - Git / GitHub
-- Ollama (modelos locais)
 - OpenAI API / Gemini API
 </details>
 
