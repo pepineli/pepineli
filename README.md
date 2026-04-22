@@ -1,5 +1,5 @@
 <h1 align="center">Murilo Pepineli</h1>
-<h3 align="center">Estudante de Ciência da Computação |
+<h3 align="center">Estudante de Ciência da Computação 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud-GCP-blue?logo=google-cloud&logoColor=white">
