@@ -60,17 +60,6 @@ Sou estudante de **Ciência da Computação** na USCS, apaixonado por tecnologia
 
 ---
 
-##  Projetos Acadêmicos e Práticos
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|--------------|
-| **Finanças Sustentáveis – NotebookLM** | Curadoria de 4 fontes sobre crédito ESG e finanças verdes, com testes de prompts e miniguia. | NotebookLM, Engenharia de Prompts |
-| **Análise de Ações (ALTA/BAIXA)** | Programa simples para simular análise de desempenho de ações. | Python, Lógica Condicional |
-| **Lançamentos Financeiros** | Cálculo de saldo com base em despesas e receitas. | Python, ETL básico |
-| **Remoção de Duplicatas em Extrato** | Função que remove transações repetidas mantendo ordem original. | Python, Estruturas de Dados |
-
----
-
 ##  Habilidades Técnicas
 
 <details>
