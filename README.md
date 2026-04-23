@@ -44,8 +44,6 @@ Sou estudante de **Ciência da Computação** na USCS, apaixonado por tecnologia
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/pepineli/assistente-voz-whisper-chatgpt)
 
-> Assistente que grava áudio, transcreve com Whisper (OpenAI), gera resposta com ChatGPT e sintetiza voz com gTTS. Totalmente seguro (chave não exposta) e rodando no Colab.
-
 **Tecnologias:** Python, OpenAI Whisper, ChatGPT API, gTTS, Google Colab, JavaScript (gravação de áudio).
 
 ---
@@ -53,8 +51,6 @@ Sou estudante de **Ciência da Computação** na USCS, apaixonado por tecnologia
 ###  apiCRUD – API REST com C#/.NET para gerenciamento de produtos
 
 [[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/pepineli/APICrud)
-
-> API REST completa para CRUD de produtos, desenvolvida em C# com .NET. Inclui modelos, controllers, respostas padronizadas e conexão com banco de dados (Entity Framework). Ideal para estudos de back-end e integração com front-end.
 
 **Tecnologias:** C#, .NET, Entity Framework, SQL Server, Swagger, REST API.
 
