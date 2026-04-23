@@ -26,8 +26,6 @@ Sou estudante de **Ciência da Computação** na USCS, apaixonado por tecnologia
 | **Desenvolvimento com C# e .NET** | RocketSeat | 60h | C#, .NET, APIs |
 | **Angular + TypeScript** | RocketSeat | 20h | Angular, RxJS, TypeScript |
 
-> **Em andamento:** Bootcamp Santander 2026 (Back-end Java + Spring + IA)
-
 ---
 
 ##  Projetos em Destaque
