@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white">
 </p>
 
 ---
