@@ -11,78 +11,77 @@
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou estudante de **Ciência da Computação** na USCS, apaixonado por tecnologia, nuvem e inteligência artificial. Tenho experiência em ambientes cloud (GCP/Azure), desenvolvimento em Python, Java, C# e Angular.
+I am a **Computer Science** student at USCS, passionate about technology, cloud, and artificial intelligence. I have experience with cloud environments (GCP/Azure), development in Python, Java, C#, and Angular.
 
 ---
 
-## Certificações e Cursos
+## Certifications and Courses
 
-| Curso | Instituição | Carga horária | Tecnologias |
-|-------|-------------|---------------|--------------|
-| **Bootcamp GenAI & Dados** | Bradesco / DIO | 52h | GenAI, Python, SQL, Excel, NotebookLM, LLMs |
-| **Desenvolvimento com C# e .NET** | RocketSeat | 60h | C#, .NET, APIs |
+| Course | Institution | Duration | Technologies |
+|--------|-------------|----------|--------------|
+| **Bootcamp GenAI & Data** | Bradesco / DIO | 52h | GenAI, Python, SQL, Excel, NotebookLM, LLMs |
+| **Development with C# and .NET** | RocketSeat | 60h | C#, .NET, APIs |
 | **Angular + TypeScript** | RocketSeat | 20h | Angular, RxJS, TypeScript |
 
 ---
 
-##  Projetos em Destaque
+## Featured Projects
 
-###  Lúcio – Agente Educador Financeiro com IA Generativa
+### Lúcio – Financial Educator Agent with Generative AI
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/pepineli/dio-lab-bia-do-futuro)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/pepineli/dio-lab-bia-do-futuro)  
 [![Colab](https://img.shields.io/badge/Google_Colab-Notebook-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/pepineli/dio-lab-bia-do-futuro/blob/main/Agente_de_IA_financeiro_L%C3%9ACIO%20(1).ipynb)
 
-
-**Tecnologias:** Python, OpenAI API, Gradio, Google Colab, Pandas, JSON.
-
----
-
-### Assistente de Voz com Whisper + ChatGPT + gTTS
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/pepineli/assistente-voz-whisper-chatgpt)
-
-**Tecnologias:** Python, OpenAI Whisper, ChatGPT API, gTTS, Google Colab, JavaScript (gravação de áudio).
+**Technologies:** Python, OpenAI API, Gradio, Google Colab, Pandas, JSON.
 
 ---
 
-###  apiCRUD – API REST com C#/.NET para gerenciamento de produtos
+### Voice Assistant with Whisper + ChatGPT + gTTS
 
-[[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/pepineli/APICrud)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/pepineli/assistente-voz-whisper-chatgpt)
 
-**Tecnologias:** C#, .NET, Entity Framework, SQL Server, Swagger, REST API.
+**Technologies:** Python, OpenAI Whisper, ChatGPT API, gTTS, Google Colab, JavaScript (audio recording).
 
 ---
 
-##  Habilidades Técnicas
+### apiCRUD – REST API with C#/.NET for Product Management
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/pepineli/APICrud)
+
+**Technologies:** C#, .NET, Entity Framework, SQL Server, Swagger, REST API.
+
+---
+
+## Technical Skills
 
 <details>
-<summary><b>Linguagens de Programação</b></summary>
+<summary><b>Programming Languages</b></summary>
 
-- Python (básico)
-- Java (intermediário)
-- C# (.NET) (intermediário)
-- TypeScript/JavaScript (básico)
-- SQL (intermediário)
+- Python (basic)  
+- Java (intermediate)  
+- C# (.NET) (intermediate)  
+- TypeScript/JavaScript (basic)  
+- SQL (intermediate)  
 </details>
 
 <details>
-<summary><b>Cloud & Infraestrutura</b></summary>
+<summary><b>Cloud & Infrastructure</b></summary>
 
-- Google Cloud Platform (GCP) – Compute Engine, IAM
-- Microsoft Azure – gerenciamento de recursos
+- Google Cloud Platform (GCP) – Compute Engine, IAM  
+- Microsoft Azure – resource management  
 </details>
 
 <details>
-<summary><b>Frameworks & Ferramentas</b></summary>
+<summary><b>Frameworks & Tools</b></summary>
 
-- Angular
-- Gradio
-- Streamlit
-- Pandas / NumPy
-- Git / GitHub
-- OpenAI API / Gemini API
+- Angular  
+- Gradio  
+- Streamlit  
+- Pandas / NumPy  
+- Git / GitHub  
+- OpenAI API / Gemini API  
 </details>
 
 ---
