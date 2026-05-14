@@ -43,6 +43,8 @@ Computer Science student at **USCS** with hands-on experience in **Cloud Computi
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/pepineli/Agente-Lucio)
 
+[![Colab](https://img.shields.io/badge/Google_Colab-Open_in_Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/pepineli/Agente-Lucio/blob/main/Agente_de_IA_financeiro_L%C3%9ACIO.ipynb)
+
 **Technologies:** Python, OpenAI API, Gradio, Google Colab, Pandas, JSON.
 
 ---
@@ -51,7 +53,7 @@ Computer Science student at **USCS** with hands-on experience in **Cloud Computi
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/pepineli/whisper-chatgpt)
 
-[![Colab](https://img.shields.io/badge/Google_Colab-Open_in_Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/pepineli/whisper-chatgpt/blob/main/assistant.ipynb)
+[![Colab](https://img.shields.io/badge/Google_Colab-Open_in_Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/pepineli/whisper-chatgpt/blob/main/Assistente_Voz_ChatGPT_Whisper%20(1).ipynb)
 
 **Technologies:** Python, OpenAI Whisper, ChatGPT API, gTTS, Google Colab, JavaScript (audio recording).
 
