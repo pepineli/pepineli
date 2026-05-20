@@ -49,13 +49,6 @@ Computer Science student at **USCS** with hands-on experience in **Cloud Computi
 **What it does:**  
 A serverless application that automatically resizes uploaded images to 200x200 pixel thumbnails. The front-end provides a modern drag-and-drop interface, while the back-end processes images using Azure Blob Triggers and serves thumbnails via secure HTTP endpoints.
 
-**Key highlights:**
-- Serverless architecture with Azure Functions (Consumption Plan)
-- Image processing with SkiaSharp (compatible with Linux/Windows serverless)
-- Blob Triggers for automatic workflow
-- Responsive front-end hosted on GitHub Pages
-- Full CORS configuration for cross-origin requests
-
 ---
 
 ### Lúcio – Financial Educator Agent with Generative AI
