@@ -38,6 +38,26 @@ Computer Science student at **USCS** with hands-on experience in **Cloud Computi
 
 ## Featured Projects
 
+### Thumbnail Generator – Serverless Image Processing with Azure Functions
+
+[![GitHub - Backend](https://img.shields.io/badge/GitHub-Backend-181717?logo=github)](https://github.com/pepineli/thumbnail-generator-azure)
+[![GitHub - Frontend](https://img.shields.io/badge/GitHub-Frontend-181717?logo=github)](https://github.com/pepineli/thumbnail-generator-frontend)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-2ea44f?logo=githubpages)](https://pepineli.github.io/thumbnail-generator-frontend/)
+
+**Technologies:** Azure Functions (C#/.NET 10), Azure Blob Storage, SkiaSharp, HTML5, CSS3, JavaScript, GitHub Pages.
+
+**What it does:**  
+A serverless application that automatically resizes uploaded images to 200x200 pixel thumbnails. The front-end provides a modern drag-and-drop interface, while the back-end processes images using Azure Blob Triggers and serves thumbnails via secure HTTP endpoints.
+
+**Key highlights:**
+- Serverless architecture with Azure Functions (Consumption Plan)
+- Image processing with SkiaSharp (compatible with Linux/Windows serverless)
+- Blob Triggers for automatic workflow
+- Responsive front-end hosted on GitHub Pages
+- Full CORS configuration for cross-origin requests
+
+---
+
 ### Lúcio – Financial Educator Agent with Generative AI
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/pepineli/Agente-Lucio)
