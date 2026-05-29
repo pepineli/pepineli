@@ -1,130 +1,54 @@
-<h1 align="center">Murilo Pepineli</h1>
+# Hi!
 
-<p align="center">
-  <b>Computer Science Student @ USCS | Cloud & AI Enthusiast</b>
-</p>
+• I'm Murilo Pepineli, a Computer Science student at USCS focused on software development, cloud computing and AI-powered applications.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
-</p>
+• I build REST APIs, AI agents and full-stack applications using Python, C#/.NET, Java and Angular.
 
----
+• Experienced with Google Cloud Platform (GCP) and Microsoft Azure, working with cloud resources, infrastructure management and FinOps concepts.
 
-## About Me
+• I work with modern development tools and practices, including Terraform, Docker, GitHub and API integrations.
 
-Computer Science student at **USCS** with hands-on experience in **Cloud Computing** (GCP and Azure), **FinOps**, and software development. Focused on building elegant solutions that solve real problems, from AI agents to REST APIs.
+• Interested in Generative AI, automation and intelligent systems using OpenAI APIs, Whisper and LLM-based workflows.
 
-- Based in Santo André, SP. Open to internship and junior positions.
-- Goal: contribute to impactful projects while growing as a software engineer.
-- Currently deepening knowledge in .NET, Cloud Architecture, and Generative AI.
+• Currently improving my skills in .NET ecosystem, cloud architecture and scalable backend development.
+
+• Feel free to reach out to talk about software engineering, cloud or AI projects.
 
 ---
 
-## Certifications
+## Currently
 
-| Certification | Institution | Year |
-|---------------|-------------|------|
-| **DevOps Fundamentals** | DIO | 2026 |
-| **GitHub Certification** | DIO | 2026 |
-| **GenAI & Data** | Bradesco / DIO | 2026 |
+- Studying: .NET & Cloud Architecture
+- Focused on: Backend Development · Cloud · Generative AI
+- Based in: São Paulo, Brazil
 
 ---
 
-## Featured Projects
+# Tools & Stack
 
-### Thumbnail Generator – Serverless Image Processing with Azure Functions
+### Languages & Frameworks
 
-[![GitHub - Backend](https://img.shields.io/badge/GitHub-Backend-181717?logo=github)](https://github.com/pepineli/thumbnail-generator-azure)
-[![GitHub - Frontend](https://img.shields.io/badge/GitHub-Frontend-181717?logo=github)](https://github.com/pepineli/thumbnail-generator-frontend)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-2ea44f?logo=githubpages)](https://pepineli.github.io/thumbnail-generator-frontend/)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk)
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 
-**Technologies:** Azure Functions (C#/.NET 10), Azure Blob Storage, SkiaSharp, HTML5, CSS3, JavaScript, GitHub Pages.
+### Cloud & DevOps
 
-**What it does:**  
-A serverless application that automatically resizes uploaded images to 200x200 pixel thumbnails. The front-end provides a modern drag-and-drop interface, while the back-end processes images using Azure Blob Triggers and serves thumbnails via secure HTTP endpoints.
-
----
-
-### Lúcio – Financial Educator Agent with Generative AI
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/pepineli/Agente-Lucio)
-
-[![Colab](https://img.shields.io/badge/Google_Colab-Open_in_Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/pepineli/Agente-Lucio/blob/main/Agente_de_IA_financeiro_L%C3%9ACIO%20(1).ipynb)
-
-**Technologies:** Python, OpenAI API, Gradio, Google Colab, Pandas, JSON.
+![Google Cloud](https://img.shields.io/badge/-GCP-000?style=for-the-badge&logo=googlecloud)
+![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=microsoftazure)
+![Terraform](https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=terraform)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ---
 
-### Voice Assistant with Whisper + ChatGPT + gTTS
+# Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/pepineli/whisper-chatgpt)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/murilo-pepineli)
 
-[![Colab](https://img.shields.io/badge/Google_Colab-Open_in_Colab-F9AB00?logo=googlecolab)](https://colab.research.google.com/github/pepineli/whisper-chatgpt/blob/main/Assistente_Voz_ChatGPT_Whisper%20(1).ipynb)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/pepineli)
 
-**Technologies:** Python, OpenAI Whisper, ChatGPT API, gTTS, Google Colab, JavaScript (audio recording).
-
----
-
-### apiCRUD – REST API with C#/.NET for Product Management
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/pepineli/apiCRUD)
-
-**Technologies:** C#, .NET, Entity Framework, SQL Server, Swagger, REST API.
-
----
-
-## Technical Skills
-
-<details>
-<summary><b>Programming Languages</b></summary>
-
-- Python
-- Java
-- C# (.NET)
-- TypeScript / JavaScript
-- SQL
-</details>
-
-<details>
-<summary><b>Cloud & Infrastructure</b></summary>
-
-- Google Cloud Platform (GCP) – Compute Engine, IAM
-- Microsoft Azure – resource management
-- Terraform
-- Docker
-</details>
-
-<details>
-<summary><b>Frameworks & Tools</b></summary>
-
-- Angular
-- Gradio
-- Pandas
-- Git / GitHub
-- OpenAI API
-- Swagger
-</details>
-
----
-
-## Contact
-
-<p align="left">
-  <a href="https://linkedin.com/in/murilo-pepineli">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/pepineli">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-  </a>
-  <a href="mailto:murilo.pepineli.br@outlook.com.br">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-  </a>
-</p>
-
----
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail)](mailto:murilo.pepineli.br@outlook.com.br)
+```
