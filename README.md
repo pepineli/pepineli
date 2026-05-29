@@ -1,6 +1,6 @@
 # Murilo Pepineli
 
-`Computer Science Student`
+`Back End Developer | Cloud | Data`
 
 I'm a Computer Science student focused on software development, cloud computing and AI-powered applications.
 
@@ -36,9 +36,6 @@ Currently focused on backend development, cloud architecture and generative AI a
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
 
-  <a href="https://github.com/pepineli" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  </a>
 
   <a href="mailto:mp.pepineli@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
