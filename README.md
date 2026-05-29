@@ -16,14 +16,6 @@
 
 ---
 
-## Currently
-
-- Studying: .NET & Cloud Architecture
-- Focused on: Backend Development · Cloud · Generative AI
-- Based in: São Paulo, Brazil
-
----
-
 # Tools & Stack
 
 ### Languages & Frameworks
