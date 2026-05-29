@@ -1,46 +1,48 @@
-# Hi!
+# Murilo Pepineli
 
-• I'm Murilo Pepineli, a Computer Science student at USCS focused on software development, cloud computing and AI-powered applications.
+`Back End Developer | Cloud | Data`
 
-• I build REST APIs, AI agents and full-stack applications using Python, C#/.NET, Java and Angular.
+I'm a Computer Science student focused on software development, cloud computing and AI-powered applications.
 
-• Experienced with Google Cloud Platform (GCP) and Microsoft Azure, working with cloud resources, infrastructure management and FinOps concepts.
+I enjoy building clean and scalable solutions using modern technologies, always improving my backend, cloud and problem-solving skills.
 
-• I work with modern development tools and practices, including Terraform, Docker, GitHub and API integrations.
-
-• Interested in Generative AI, automation and intelligent systems using OpenAI APIs, Whisper and LLM-based workflows.
-
-• Currently improving my skills in .NET ecosystem, cloud architecture and scalable backend development.
-
-• Feel free to reach out to talk about software engineering, cloud or AI projects.
+Currently focused on backend development, cloud architecture and generative AI applications using .NET, Python and cloud platforms.
 
 ---
 
-# Tools & Stack
+## Languages and Tools
 
-### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk)
-![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-
-### Cloud & DevOps
-
-![Google Cloud](https://img.shields.io/badge/-GCP-000?style=for-the-badge&logo=googlecloud)
-![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=microsoftazure)
-![Terraform](https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=terraform)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-# Contact
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/murilo-pepineli)
+<p align="left">
+  <a href="https://linkedin.com/in/murilo-pepineli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/pepineli)
+  <a href="https://github.com/pepineli" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail)](mailto:murilo.pepineli.br@outlook.com.br)
-```
+  <a href="mailto:murilo.pepineli.br@outlook.com.br">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
